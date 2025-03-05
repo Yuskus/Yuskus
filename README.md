@@ -1,7 +1,9 @@
-### Language Statistics
+### On Codewars since March 28, 2024  
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuskus&layout=compact)
+![Codewars](https://www.codewars.com/users/Yuskus/badges/large?theme=light)  
 
-### On Codewars since March 28, 2024
+[//]: <### Language Statistics>
 
-![Codewars](https://www.codewars.com/users/Yuskus/badges/large?theme=light)
+[//]: <![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuskus&layout=compact)>
+
+
