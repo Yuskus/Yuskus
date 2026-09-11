@@ -1,3 +1,3 @@
-### On Codewars since March 28, 2024  
+### On Codewars since March 28, 2024
 
-![Codewars](https://www.codewars.com/users/Yuskus/badges/large?theme=light)  
+[![Codewars](https://www.codewars.com/users/Yuskus/badges/large?theme=light)](https://www.codewars.com/users/Yuskus)    
